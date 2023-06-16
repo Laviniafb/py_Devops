@@ -16,5 +16,5 @@ jobs:
         with:
           service-id: ${{ secrets.MY_RENDER_SERVICE_ID }}
           api-key: ${{ secrets.MY_RENDER_API_KEY }}
-          branch: dev
-          env: DEV
+          branch: DEV
+          env: QA
