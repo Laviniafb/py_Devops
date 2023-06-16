@@ -19,4 +19,4 @@ jobs:
           api-key: ${{ secrets.MY_RENDER_API_KEY }}
           branch: DEV
           env: QA
-          render-url: "https://qa.example.com"
+          render-url: "https://py-devops.onrender.com"
